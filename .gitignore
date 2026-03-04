@@ -1,0 +1,4 @@
+venv
+data
+Vectorizer/__pycache__
+book_vectors.jsonl
